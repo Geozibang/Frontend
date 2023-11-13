@@ -51,7 +51,7 @@ E타입 - 우선순위소비를 기록하여 청년들의 건전한 소비습관
 
 #### 2. **AWS RDS를 이용한 MYSQL Database 구축**
    - Amazon RDS를 이용하여, Cloud 상에서 Database 구동.
-   - Mysql Database를 구축하여, Real-Time Accessibility / Continuous Evolution / Concurrent Sharing / Content Reference 이 가능하게 함.
+   - Mysql Database를 구축하여,<br>Real-Time Accessibility / Continuous Evolution / Concurrent Sharing / Content Reference 이 가능하게 함.
 
 
 <br>
