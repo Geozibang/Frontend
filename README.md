@@ -49,7 +49,8 @@ http://52.79.38.250:3000/
 ![image](https://github.com/Geozibang/Frontend/assets/80188977/17e21eaf-116a-4d78-a3ff-37182c03644f)
 
 #### MAIN ARCHITECTURE
-![image](https://github.com/Geozibang/Frontend/assets/80188977/7d857e65-9e7f-4708-9e7f-9a42f3b89ef3)
+<img width="1027" alt="image" src="https://github.com/Geozibang/Frontend/assets/80188977/ce9eef3f-a324-4c9f-934a-8213ae11c24a">
+
 
 
 #### 1. **Docker 가상환경와 AWS EC2 Server를 이용한 배포**
