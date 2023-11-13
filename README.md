@@ -1,4 +1,4 @@
-# 2023 대구를 빛내는 SW 해커톤
+![image](https://github.com/Geozibang/Frontend/assets/80188977/09c40cd9-fa30-4764-a92b-8c6faf351be2)# 2023 대구를 빛내는 SW 해커톤
 
 
 ## 🏢 팀명
@@ -44,7 +44,9 @@ E타입 - 우선순위소비를 기록하여 청년들의 건전한 소비습관
    - 변환된 Image를 Docker Hub를 통해 EC2 Server에 전송.
    - EC2 Server에서 Docker Image를 가동하여 프로젝트 실행.
 <br>
-![image](https://github.com/Geozibang/Frontend/assets/80188977/da703224-384c-44ba-bb18-5f975f21157c)
+
+![image](https://github.com/Geozibang/Frontend/assets/80188977/c151e420-536b-4f33-a608-7909990b9697)
+
 
 #### 2. **AWS RDS를 이용한 MYSQL Database 구축**
    - Amazon RDS를 이용하여, Cloud 상에서 Database 구동.
