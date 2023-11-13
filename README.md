@@ -50,6 +50,10 @@ E타입 - 우선순위소비를 기록하여 청년들의 건전한 소비습관
    - Amazon RDS를 이용하여, Cloud 상에서 Database 구동.
    - Mysql Database를 구축하여, Real-Time Accessibility / Continuous Evolution / Concurrent Sharing / Content Reference 이 가능하게 함.
 
+
+
+
+
      
 #### **React SPA를 통한 UI UX 개선 및 module css를 통한 DX 개선**
    ![image](https://github.com/Geozibang/Frontend/assets/80188977/4cf0a812-b888-43d1-bb93-c56ad2a8496f)
