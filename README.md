@@ -64,19 +64,22 @@ E타입 - 우선순위소비를 기록하여 청년들의 건전한 소비습관
 
      
 #### 3. **React SPA를 통한 UI UX 개선 및 module css를 통한 DX 개선**
-   ![image](https://github.com/Geozibang/Frontend/assets/80188977/4cf0a812-b888-43d1-bb93-c56ad2a8496f)
+   <img width="718" alt="image" src="https://github.com/Geozibang/Frontend/assets/80188977/99af4289-9a89-44a7-b298-57162b98f0ba">
+
 
    - 소비보기 화면
       - 소비우선순위에 따라 소비기록을 계획.
       - 소비내역, 금액을 확인 가능.
         
-  ![image](https://github.com/Geozibang/Frontend/assets/80188977/6384c99a-2429-434e-b569-95cfd2203fa0)
+  <img width="722" alt="image" src="https://github.com/Geozibang/Frontend/assets/80188977/313596b4-46d9-4255-9f63-d79dcc1c5b3c">
+
 
    - 달력보기 화면
       - 이미 완료한 소비기록을 확인.
       - 완료한 날짜에 따라 소비기록을 확인.
 
-  ![image](https://github.com/Geozibang/Frontend/assets/80188977/a7012c89-9ad2-4024-8c41-f887dd3c65ad)
+  <img width="738" alt="image" src="https://github.com/Geozibang/Frontend/assets/80188977/5620f610-7e79-4083-bdb5-9df664149954">
+
 
    - 기간별보기 화면
       - 이미 완료한 소비기록을 바탕으로, 과거의 지출 내역 분석.
