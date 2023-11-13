@@ -43,8 +43,8 @@ E타입 - 우선순위소비를 기록하여 청년들의 건전한 소비습관
    - 프론트 프로젝트와 백 프로젝트를 각각 Docker Image로 변환.
    - 변환된 Image를 Docker Hub를 통해 EC2 Server에 전송.
    - EC2 Server에서 Docker Image를 가동하여 프로젝트 실행.
-
-![image](https://github.com/Geozibang/Frontend/assets/80188977/02b05e30-2e09-41d1-aefe-74f46535b0db)
+<br>
+![image](https://github.com/Geozibang/Frontend/assets/80188977/da703224-384c-44ba-bb18-5f975f21157c)
 
 #### 2. **AWS RDS를 이용한 MYSQL Database 구축**
    - Amazon RDS를 이용하여, Cloud 상에서 Database 구동.
