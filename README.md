@@ -1,4 +1,4 @@
-![image](https://github.com/Geozibang/Frontend/assets/80188977/09c40cd9-fa30-4764-a92b-8c6faf351be2)# 2023 대구를 빛내는 SW 해커톤
+# 2023 대구를 빛내는 SW 해커톤
 
 
 ## 🏢 팀명
