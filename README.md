@@ -46,11 +46,11 @@ http://52.79.38.250:3000/
 - **IDE** : <img src= "https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"> <img src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src= "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
 
 ### 🛠️ 핵심 기능
-![image](https://github.com/Geozibang/Frontend/assets/80188977/17e21eaf-116a-4d78-a3ff-37182c03644f)
 
 #### MAIN ARCHITECTURE
 <img width="1027" alt="image" src="https://github.com/Geozibang/Frontend/assets/80188977/ce9eef3f-a324-4c9f-934a-8213ae11c24a">
 
+![image](https://github.com/Geozibang/Frontend/assets/80188977/17e21eaf-116a-4d78-a3ff-37182c03644f)
 
 #### 1. **Docker 가상환경와 AWS EC2 Server를 이용한 배포**
    - 프론트 프로젝트와 백 프로젝트를 각각 Docker Image로 변환.
