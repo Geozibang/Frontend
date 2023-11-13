@@ -39,14 +39,14 @@ E타입 - 우선순위소비를 기록하여 청년들의 건전한 소비습관
 ### 🛠️ 핵심 기능
 ![image](https://github.com/Geozibang/Frontend/assets/80188977/17e21eaf-116a-4d78-a3ff-37182c03644f)
 
-#### **Docker 가상환경와 AWS EC2 Server를 이용한 배포**
+#### 1. **Docker 가상환경와 AWS EC2 Server를 이용한 배포**
    - 프론트 프로젝트와 백 프로젝트를 각각 Docker Image로 변환.
    - 변환된 Image를 Docker Hub를 통해 EC2 Server에 전송.
    - EC2 Server에서 Docker Image를 가동하여 프로젝트 실행.
 
 ![image](https://github.com/Geozibang/Frontend/assets/80188977/02b05e30-2e09-41d1-aefe-74f46535b0db)
 
-#### **AWS RDS를 이용한 MYSQL Database 구축**
+#### 2. **AWS RDS를 이용한 MYSQL Database 구축**
    - Amazon RDS를 이용하여, Cloud 상에서 Database 구동.
    - Mysql Database를 구축하여, Real-Time Accessibility / Continuous Evolution / Concurrent Sharing / Content Reference 이 가능하게 함.
 
@@ -56,7 +56,7 @@ E타입 - 우선순위소비를 기록하여 청년들의 건전한 소비습관
 <br>
 
      
-#### **React SPA를 통한 UI UX 개선 및 module css를 통한 DX 개선**
+#### 3. **React SPA를 통한 UI UX 개선 및 module css를 통한 DX 개선**
    ![image](https://github.com/Geozibang/Frontend/assets/80188977/4cf0a812-b888-43d1-bb93-c56ad2a8496f)
 
    - 소비보기 화면
