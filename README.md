@@ -40,6 +40,10 @@ E타입 - 우선순위소비를 기록하여 청년들의 건전한 소비습관
 ### 🛠️ 핵심 기능
 ![image](https://github.com/Geozibang/Frontend/assets/80188977/17e21eaf-116a-4d78-a3ff-37182c03644f)
 
+#### MAIN ARCHITECTURE
+![image](https://github.com/Geozibang/Frontend/assets/80188977/7d857e65-9e7f-4708-9e7f-9a42f3b89ef3)
+
+
 #### 1. **Docker 가상환경와 AWS EC2 Server를 이용한 배포**
    - 프론트 프로젝트와 백 프로젝트를 각각 Docker Image로 변환.
    - 변환된 Image를 Docker Hub를 통해 EC2 Server에 전송.
